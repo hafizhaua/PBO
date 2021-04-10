@@ -1,0 +1,16 @@
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\bin\Debug\net5.0\PetCare.exe
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\bin\Debug\net5.0\PetCare.deps.json
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\bin\Debug\net5.0\PetCare.runtimeconfig.json
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\bin\Debug\net5.0\PetCare.runtimeconfig.dev.json
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\bin\Debug\net5.0\PetCare.dll
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\bin\Debug\net5.0\ref\PetCare.dll
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\bin\Debug\net5.0\PetCare.pdb
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\obj\Debug\net5.0\PetCare.csprojAssemblyReference.cache
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\obj\Debug\net5.0\PetCare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\obj\Debug\net5.0\PetCare.AssemblyInfoInputs.cache
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\obj\Debug\net5.0\PetCare.AssemblyInfo.cs
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\obj\Debug\net5.0\PetCare.csproj.CoreCompileInputs.cache
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\obj\Debug\net5.0\PetCare.dll
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\obj\Debug\net5.0\ref\PetCare.dll
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\obj\Debug\net5.0\PetCare.pdb
+C:\Users\Asus Pc\source\repos\PetCare\PetCare\obj\Debug\net5.0\PetCare.genruntimeconfig.cache
